@@ -18,16 +18,13 @@ I am an undergraduate student majoring in Software Engineering, focusing on LLM 
 
 ## How To Reach Me 如何联系我
 <a href="mailto:zsh0051119@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-zsh0051119@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-zsh0051119@gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="mailto:2718827630@qq.com">
-<img src="https://img.shields.io/badge/QQ邮箱-2718827630@qq.com-#12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
+<img alt="QQ邮箱" src="https://img.shields.io/badge/QQ-2718827630@qq.com-blue?style=flat-square&logo=tencentqq&logoColor=white">
 </a>
 <a href="https://nowcoder.com/profile/gdemoni">
-<img src="https://img.shields.io/badge/牛客网-gdemoni-#00C6FF?style=flat-square&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://gist.github.com/gdemoni">
-<img src="https://img.shields.io/badge/Gist-代码片段库-#303030?style=flat-square&logo=github&logoColor=white" />
+<img alt="牛客网" src="https://img.shields.io/badge/Nowcoder-gdemoni-cyan?style=flat-square&logo=codeforces&logoColor=white">
 </a>
 ---
 
@@ -47,4 +44,15 @@ I am an undergraduate student majoring in Software Engineering, focusing on LLM 
 </div>
 
 #### AI 开发工具
-Codex / Claude Code / Trae / Qoder
+<a href="#">
+<img alt="Codex" src="https://img.shields.io/badge/Codex-OpenAI-black?style=flat-square&logo=openai&logoColor=white">
+</a>
+<a href="#">
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-Anthropic-blueviolet?style=flat-square&logo=anthropic&logoColor=white">
+</a>
+<a href="#">
+<img alt="Trae" src="https://img.shields.io/badge/Trae-AI%20IDE-0094FF?style=flat-square&logo=code&logoColor=white">
+</a>
+<a href="#">
+<img alt="Qoder" src="https://img.shields.io/badge/Qoder-AI%20Tool-222222?style=flat-square&logo=github&logoColor=white">
+</a>
