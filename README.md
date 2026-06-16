@@ -17,13 +17,18 @@ I am an undergraduate student majoring in Software Engineering, focusing on LLM 
 ---
 
 ## How To Reach Me 如何联系我
-<img src="https://img.shields.io/badge/zsh0051119@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/2718827630@qq.com-#12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
-<img src="https://img.shields.io/badge/gdemoni-#00C6FF?style=flat-square&logo=codeforces&logoColor=white" />
+<a href="mailto:zsh0051119@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-zsh0051119@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:2718827630@qq.com">
+<img src="https://img.shields.io/badge/QQ邮箱-2718827630@qq.com-#12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
+</a>
+<a href="https://nowcoder.com/profile/gdemoni">
+<img src="https://img.shields.io/badge/牛客网-gdemoni-#00C6FF?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
 <a href="https://gist.github.com/gdemoni">
 <img src="https://img.shields.io/badge/Gist-代码片段库-#303030?style=flat-square&logo=github&logoColor=white" />
 </a>
-
 ---
 
 ### 📌 Personal Projects 个人项目
@@ -32,7 +37,7 @@ I am an undergraduate student majoring in Software Engineering, focusing on LLM 
 - 📦 Vue Frontend Management Page
   📦 Vue前端管理页面：配套Python后端的轻量化业务管理系统
 - 📋 Development Script Gist
-  📋 开发工具脚本合集：SQL模板、自动化部署、AI调用工具片段
+  
 
 ---
 
@@ -40,3 +45,6 @@ I am an undergraduate student majoring in Software Engineering, focusing on LLM 
 <div align="left">
 
 </div>
+
+#### AI 开发工具
+Codex / Claude Code / Trae / Qoder
