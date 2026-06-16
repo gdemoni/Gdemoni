@@ -1,43 +1,42 @@
 # Hi 👋, I'm Zhang Shuhao
-# 嗨👋，我是张书豪
 
-I'm a software engineering student focusing on backend development & AI Agent engineering, skilled in Python, FastAPI, Oracle, LangChain and full-stack development. I usually organize reusable scripts and configs into my personal Gists.
-我是一名软件工程专业学生，主攻后端开发与AI Agent工程，熟练使用Python、FastAPI、Oracle、LangChain进行全栈开发，日常会把可复用脚本与配置整理到个人Gist中。
+I am an undergraduate student majoring in Software Engineering, focusing on LLM application development and Harness Engineer. I’m keen on AI Agent development and accumulate practical code snippets in personal Gist.
+我是软件工程专业在读本科生，主攻大模型应用开发与测试工程方向，深耕AI Agent相关开发，日常将实战代码片段整理至个人Gist。
 
-- 🖥 I'm looking for backend / AI application development internships.
-  🖥 目前正在寻找后端开发 / AI应用开发相关实习。
-- 📚 Daily tech stack: Python, Java, Vue, Oracle, Git, Linux, Docker
-  📚 日常技术栈：Python、Java、Vue、Oracle、Git、Linux、Docker
-- 📝 I write technical notes and practical code snippets on my Gist.
-  📝 我会在个人Gist中沉淀技术笔记与实用代码片段。
-- ✍️ Share backend & AI development experience on Juejin.
-  ✍️ 在掘金分享后端与AI开发实战经验。
-- 🚀 Interested in LLM application, local-first tools and database optimization.
-  🚀 兴趣方向：大模型应用、本地优先工具、数据库性能优化。
-- ☕ Feel free to contact me via email for technical communication or cooperation.
-  ☕ 欢迎通过邮箱与我交流技术、沟通合作。
+- 🧩 Daily development tech stack: Python, Vue, NPM, LangChain, LangGraph
+  
+- 🤖 Frequent AI coding tools: Codex, Claude Code, Trae, Qoder
+  
+- 📝 Share backend & LLM practice experience on Nowcoder
+  
+- 🚀 Research interest: LLM Application, Harness Engineer, AI Agent workflow
+  
+- 🛠 Maintain personal script repository for daily development efficiency
+  
 
 ---
 
-### 📬 Contact Ways 联系方式
-- Gmail: yourname@gmail.com
-- QQ Mail: 123456@qq.com
-- Juejin: 你的掘金昵称
-- My Gist: https://gist.github.com/你的GitHub用户名
+## How To Reach Me 如何联系我
+<img src="https://img.shields.io/badge/zsh0051119@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/2718827630@qq.com-#12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
+<img src="https://img.shields.io/badge/gdemoni-#00C6FF?style=flat-square&logo=codeforces&logoColor=white" />
+<a href="https://gist.github.com/gdemoni">
+<img src="https://img.shields.io/badge/Gist-代码片段库-#303030?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 ---
 
-### 📌 My Open Source Projects 个人开源项目
-- 🤖 AI Code Assistant
-  🤖 AI代码助手：基于LangChain实现代码解析、脚本自动生成工具
-- 📊 FastAPI Admin System
-  📊 FastAPI后台管理系统：全栈业务管理平台，配套Oracle数据库
-- 🛠 Personal Script Collection
-  🛠 个人工具脚本：SQL查询模板、自动化Shell、开发环境配置
+### 📌 Personal Projects 个人项目
+- 🤖 LLM Agent Workbench
+  🤖 大模型智能代理工作台：基于LangChain+LangGraph搭建多智能体调度流程
+- 📦 Vue Frontend Management Page
+  📦 Vue前端管理页面：配套Python后端的轻量化业务管理系统
+- 📋 Development Script Gist
+  📋 开发工具脚本合集：SQL模板、自动化部署、AI调用工具片段
 
 ---
 
-### 🛠 Tech Stack 技术栈
+### 🛠 Tech Stack 技术图标
 <div align="left">
 
 </div>
